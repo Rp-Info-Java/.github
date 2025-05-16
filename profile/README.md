@@ -15,7 +15,8 @@ Este espaço é dedicado ao desenvolvimento e aprimoramento de habilidades em Ja
   ### Atividades:
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rp-Info-Java/Rp-Info-Java/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rp-Info-Java/Rp-Info-Java/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Rp-Info-Java/Rp-Info-Java/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rp-Info-Java/.github/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rp-Info-Java/.github/output/github-contribution-grid-snake.svg">
+  <img alt="snake animation" src="https://raw.githubusercontent.com/Rp-Info-Java/.github/output/github-contribution-grid-snake.svg">
 </picture>
+
