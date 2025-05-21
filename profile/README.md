@@ -12,11 +12,3 @@ Este espaço é dedicado ao desenvolvimento e aprimoramento de habilidades em Ja
   <img align="center" alt="MH-Fl" height="40" width="50" src="https://www.svgrepo.com/show/373845/mongo.svg">
 </div>
 
-  ### Atividades:
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rp-Info-Java/.github/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rp-Info-Java/.github/output/github-contribution-grid-snake.svg">
-  <img alt="snake animation" src="https://raw.githubusercontent.com/Rp-Info-Java/.github/output/github-contribution-grid-snake.svg">
-</picture>
-
